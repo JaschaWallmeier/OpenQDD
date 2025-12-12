@@ -11,5 +11,5 @@ To create the modified disc, do the following:
 Alternative way:
 1. In the `config.py` activate the option `create_csv`
 2. Run `Cycloid_plotter.py`. A `.csv` file will be created in the same directory
-3. Import the `.dxf` into your CAD package of choice and create a spline. For Fusion360 i recommend an [alternate importer](https://github.com/CADstudioCZ/ImportSplineCSVg/) as the standard one has a few issues. 
+3. Import the `.csv` into your CAD package of choice and create a spline. For Fusion360 i recommend an [alternate importer](https://github.com/CADstudioCZ/ImportSplineCSVg/) as the standard one has a few issues. 
 This may lead to a few issues at the start/end of the spline, so dxf is the prefered option.
